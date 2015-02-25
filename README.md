@@ -10,11 +10,8 @@ It will calculate the Debit or Credit amount per your Company Currency from the 
 When you install this module, it adds a menu under Accounting->Journal Entries->Manual Entries.<br>
 Please note you need to: <br>
                          1. Choose Currency first.<br>
-                         
                          2. Input Amount Currency amount, input positive amount if you want it to be shown in Debit side and<br>                             input negative amount if you want it to be shown in Credit Side.<br>
-                         
                          3. Hit Tab, the Debit/Credit in the journal entry will be automatically updated<br>
-                         
                          4. You are free to change Debit/Credit value while it will not affect the amount currency.<br>
                          
 If you need some helps, contact us [here] (http://www.oscg.com.hk/contact/).
