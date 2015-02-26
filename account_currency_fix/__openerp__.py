@@ -25,13 +25,22 @@
     'version': '1.0',
     'category' : 'Accounting & Finance',
     'description': """
-It will calculate the Debit or Credit amount per your Company Currency from the Second Currency you input in the Journal Entry automatically.
-It adds a menu under Accounting->Journal Entries->Manual Entries.
+OSCG Currency Fix-Accounting
+==========================
+
+OSCG specially designed this module to solve Multi-Currency problem for Odoo.
+If you need some helps, contact us(http://www.oscg.com.hk/).
+
+User Instructions
+------------
+The module will calculate the Debit or Credit amount per your Company Currency from the Second Currency you input in the Journal Entry automatically.
+When you successfully install this module, it adds a menu under Accounting->Journal Entries->Manual Entries.
 Please note you need to:
-1. Choose Currency first
-2. Input Amount Currency amount, input positive amount if you want it to be shown in Debit side and input negative amount if you want it to be shown in Credit Side
-3. Hit Tab, the Debit/Credit in the journal entry will be automatically updated
-4. You are free to change Debit/Credit value while it will not affect the amount currency
+1. Choose Currency first.
+2. Input Amount Currency amount, input positive amount if you want it to be shown in Debit side and input negative amount if you want it to be shown in Credit Side.
+3. Hit Tab, the Debit/Credit in the journal entry will be automatically updated.
+4. You are free to change Debit/Credit value while it will not affect the amount currency.
+
     """,
     'author': 'OSCG',
     'depends': ['account'],
